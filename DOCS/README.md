@@ -56,3 +56,9 @@ Bill of Materials:
     </tr>
   </tbody>
 </table>
+
+
+Zine:
+
+<img width="320" height="487" alt="image" src="https://github.com/user-attachments/assets/c1565b97-04bf-4b3f-9cc8-3a117b2874d0" />
+
